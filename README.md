@@ -1,0 +1,2 @@
+# Others
+SQL, Excel files
