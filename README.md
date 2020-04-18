@@ -1,2 +1,3 @@
 # Others
-SQL, Excel files
+SQL, Excel practice and tutorial files
+NOTE: All files are created by following tutorials.
